@@ -1,2 +1,2 @@
-#Um pequeno projeto utilizando HTML5 e CSS3 
-# Link to the project (https://michelfviana.github.io/)
+# A small project using HTML5 and CSS3
+## Link to the project (https://michelfviana.github.io/)
